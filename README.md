@@ -12,7 +12,7 @@
 
 ## Tecnologies that keep me up at night
 
-
+![alt text](https://github.com/CaterinaBi/images/technologies.png?raw=true)
 
 ## How to reach me
 
