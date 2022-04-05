@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @CaterinaBi.
-- 👀 I’m interested in theoretical linguistics, language documentation, NLP and more generally AI.
-- 🌱 I’m currently learning to code in Python for AI.
-- 💞️ I’m looking to collaborate on small projects related to the field of linguistics.
-- 📫 How to reach me: catherine bonan at gmail dot com.
+# Hi, I’m @CaterinaBi!
+
+## I'm a **formal linguist** by education, and I've been training to become a **NLP engineer** 🤖
+
+👩‍🎓 I'm a postdoctoral researcher at the **University of Cambridge**, UK.
+
+👀 I’m interested in comparative syntax, language documentation, Deep NLP and more generally ML.
+
+🌱 I’m currently learning to code in **Python** for AI.
+
+💞️ I’m *always* looking to collaborate on small projects related to the field of linguistics.
+
+## How to reach me
+
+<a href="https://www.linkedin.com/in/caterinabonan/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Caterina Bonan | LinkedIn" width="21px"/></a>
+Click on the LinkedIn icon 🙂 
+
+## My stats
+
+![CaterinaBi’s GitHub stats](https://github-readme-stats.vercel.app/api?username=CaterinaBi&theme=omni&show_icons=true)
 
 <!---
 CaterinaBi/CaterinaBi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
