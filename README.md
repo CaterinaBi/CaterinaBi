@@ -1,6 +1,6 @@
 # Hi, I’m @CaterinaBi! 👋
 
-## I'm a **formal linguist** by education, and I've been training to become a **NLP engineer** 🤖
+## I'm a **formal linguist** by education, and I'm training to become a **NLP engineer** 🤖
 
 👩‍🎓 Postdoctoral researcher at the **University of Cambridge**, UK, since 2019.
 
