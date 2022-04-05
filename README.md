@@ -2,13 +2,13 @@
 
 ## I'm a **formal linguist** by education, and I've been training to become a **NLP engineer** 🤖
 
-👩‍🎓 I've been a postdoctoral researcher at the **University of Cambridge**, UK, since 2019.
+👩‍🎓 Postdoctoral researcher at the **University of Cambridge**, UK, since 2019.
 
-👀 I’m interested in comparative syntax, language documentation, Deep NLP and more generally ML.
+👀 Interested in comparative syntax, language documentation, Deep NLP and more generally ML.
 
-🌱 I’m currently learning to code in **Python** for AI.
+🌱 Currently learning to code in **Python** for AI.
 
-💞️ I’m *always* looking to collaborate on small projects related to the field of linguistics.
+💞️ *Always* looking to collaborate on small projects related to the field of linguistics.
 
 ## Tecnologies that keep me up at night 🤦‍♀️
 
