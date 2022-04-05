@@ -10,7 +10,7 @@
 
 💞️ *Always* looking to collaborate on small projects related to the field of linguistics.
 
-## Tecnologies that keep me up at night 🤦‍♀️
+## Technologies that keep me up at night 🤦‍♀️
 
 ![alt text](images/technologies.png)
 
