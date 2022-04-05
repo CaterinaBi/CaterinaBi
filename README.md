@@ -1,4 +1,4 @@
-# Hi, I’m @CaterinaBi!
+# Hi, I’m @CaterinaBi! 👋
 
 ## I'm a **formal linguist** by education, and I've been training to become a **NLP engineer** 🤖
 
@@ -10,16 +10,16 @@
 
 💞️ I’m *always* looking to collaborate on small projects related to the field of linguistics.
 
-## Tecnologies that keep me up at night
+## Tecnologies that keep me up at night 🤦‍♀️
 
-![alt text](https://github.com/CaterinaBi/images/technologies.png?raw=true)
+![alt text](images/technologies.png)
 
-## How to reach me
+## How to reach me 📭
 
 <a href="https://www.linkedin.com/in/caterinabonan/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Caterina Bonan | LinkedIn" width="21px"/></a>
-Click on the LinkedIn icon 🙂 
+Simply click on the LinkedIn icon!
 
-## My stats
+## My stats 🏅
 
 ![CaterinaBi’s GitHub stats](https://github-readme-stats.vercel.app/api?username=CaterinaBi&theme=omni&show_icons=true)
 
