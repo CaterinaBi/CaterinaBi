@@ -14,11 +14,11 @@
 
 📭 You can reach out to me on <a href="https://www.linkedin.com/in/caterinabonan/"><img align="!" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Caterina Bonan | LinkedIn" width="21px"/></a> !
 
-## Technologies that keep me up at night 🤦‍♀️
+# Technologies that keep me up at night 🤦‍♀️
 
 ![alt text](images/technologies.png)
 
-## My statistics 🏅
+# My statistics 🏅
 
 ![CaterinaBi’s GitHub stats](https://github-readme-stats.vercel.app/api?username=CaterinaBi&theme=omni&show_icons=true)
 
