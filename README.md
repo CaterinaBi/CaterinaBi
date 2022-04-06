@@ -1,6 +1,6 @@
 ![alt_text](images/hello.png)
 
-## A little bit about me 👀
+# A little bit about me 👀
 
 👩‍🎓 Postdoctoral researcher at the **University of Cambridge**, UK, since 2019.
 
