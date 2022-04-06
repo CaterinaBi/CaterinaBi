@@ -1,23 +1,22 @@
-# Hi, I’m @CaterinaBi! 👋
+![alt_text](images/hello.png)
 
-## I'm a **theoretical linguist** by education, and I'm training to become a **NLP engineer** 🤖
+## A little bit about me 👀
 
 👩‍🎓 Postdoctoral researcher at the **University of Cambridge**, UK, since 2019.
 
-👀 Interested in comparative syntax, language documentation, Deep NLP and more generally ML.
+📚 Interested in comparative syntax, language documentation, Deep NLP and more generally ML.
 
 🌱 Currently learning to code in **Python** for AI.
 
 💞️ *Always* looking to collaborate on small projects related to the field of linguistics.
 
+📝 I regularly write articles on my transition out of academia. Check out my [blog](https://www.caterinabonan.com/blog)!
+
+📭 You can reach out to me on <a href="https://www.linkedin.com/in/caterinabonan/"><img align="!" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Caterina Bonan | LinkedIn" width="21px"/></a> !
+
 ## Technologies that keep me up at night 🤦‍♀️
 
 ![alt text](images/technologies.png)
-
-## How to reach me 📭
-
-<a href="https://www.linkedin.com/in/caterinabonan/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Caterina Bonan | LinkedIn" width="21px"/></a>
-Simply click on the LinkedIn icon!
 
 ## My statistics 🏅
 
