@@ -16,7 +16,7 @@
 
 # Technologies that keep me up at night 🤦‍♀️
 
-![alt text](images/technologies.png)
+![This is an image of several NLP-related technologies](images/technologies.png)
 
 # Languages and tools
 
