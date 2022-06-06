@@ -6,7 +6,7 @@
 
 📚 Interested in comparative syntax, language documentation, Deep NLP and more generally ML.
 
-🌱 Currently learning to code in **Python** for AI.
+🌱 Currently a Data and AI trainee at [AiCore](https://www.theaicore.com).
 
 💞️ *Always* looking to collaborate on small projects related to the field of linguistics.
 
