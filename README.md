@@ -28,6 +28,11 @@
 
 ![CaterinaBi’s GitHub stats](https://github-readme-stats.vercel.app/api?username=CaterinaBi&theme=omni&show_icons=true)
 
+#
+
+<h3 align="left">If you wish to support my work, hit the button below!</h3>
+<p><a href="https://www.buymeacoffee.com/caterinabi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="caterinabi" /></a></p><br><br>
+
 <!---
 CaterinaBi/CaterinaBi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
