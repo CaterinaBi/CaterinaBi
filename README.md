@@ -8,7 +8,7 @@
 
 🌱 Currently a Data and AI engineering trainee at [AiCore](https://www.theaicore.com).
 
-🎥 Content creator on [Udemy](https://www.udemy.com). First course expected in September 2022! 🔥
+🎥 Content creator on [Udemy](https://www.udemy.com). First course expected in November 2022! 🔥
 
 💞️ *Always* looking to collaborate on small projects related to the field of linguistics.
 
