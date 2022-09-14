@@ -4,7 +4,9 @@
 
 👩‍🎓 Postdoctoral researcher at the **University of Cambridge**, UK, since 2019.
 
-📚 Interested in comparative syntax, language documentation, Deep NLP and more generally ML.
+📚 Interested in comparative syntax, language documentation, Deep NLP and all sorts of NLP-powered technologies.
+
+🧑‍🦽 Hoping to make a difference by creating a more accessible and safer world for everyone through technology.
 
 🌱 Currently a Data and AI engineering trainee at [AiCore](https://www.theaicore.com).
 
