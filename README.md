@@ -8,9 +8,7 @@
 
 🧑‍🦽 Hoping to make a difference by creating a more accessible and safer world for everyone through technology.
 
-🌱 Currently a Data and AI engineering trainee at [AiCore](https://www.theaicore.com).
-
-🎥 Content creator on [Udemy](https://www.udemy.com). First course expected in November 2022! 🔥
+🌱 Currently retraining in Data engineering and MLOps at [AiCore](https://www.theaicore.com) 🔥
 
 💞️ *Always* looking to collaborate on small projects related to the field of linguistics.
 
