@@ -14,7 +14,7 @@
 
 📝 I regularly write articles on my transition out of academia. Check out my [blog](https://www.caterinabonan.com/blog)!
 
-📭 You can reach out to me on <a href="https://www.linkedin.com/in/caterinabonan/"><img align="!" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Caterina Bonan | LinkedIn" width="21px"/></a> and check out my up-to-date CV in this [repo](https://github.com/CaterinaBi/curriculum-vitae)!
+📭 You can reach out to me on <a href="https://www.linkedin.com/in/caterinabonan/"><img align="!" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Caterina Bonan | LinkedIn" width="21px"/></a> and check out my up-to-date CV in this [repo](https://github.com/CaterinaBi/curriculum-vitae)😎
 
 # Technologies that keep me up at night 🤦‍♀️
 
