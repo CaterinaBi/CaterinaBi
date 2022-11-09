@@ -30,7 +30,7 @@
 
 #
 
-<h3 align="left">If you wish to support my work, hit the button below!</h3>
+<h3 align="left">If you wish to support my training, hit the button below!</h3>
 <p><a href="https://www.buymeacoffee.com/caterinabi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="caterinabi" /></a></p><br><br>
 
 <!---
