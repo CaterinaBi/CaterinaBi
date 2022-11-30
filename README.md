@@ -10,7 +10,7 @@
 
 🌱 Currently retraining in Machine Learning and Data Engineering at [AiCore](https://www.theaicore.com) 🔥
 
-💞️ *Always* looking to collaborate on small projects related to the field of linguistics.
+💞️ *Always* looking to collaborate to projects related to the fields of linguistics or up-skilling.
 
 📝 I regularly write articles on my transition out of academia. Check out my [blog](https://www.caterinabonan.com/blog)!
 
