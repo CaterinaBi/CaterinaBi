@@ -8,7 +8,7 @@
 
 🧑‍🦽 Hoping to make a difference by creating a more accessible and safer world for everyone through technology.
 
-🌱 Currently retraining in Data engineering and ML at [AiCore](https://www.theaicore.com) 🔥
+🌱 Currently retraining in Machine Learning and Data Engineering at [AiCore](https://www.theaicore.com) 🔥
 
 💞️ *Always* looking to collaborate on small projects related to the field of linguistics.
 
