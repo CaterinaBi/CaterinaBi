@@ -8,7 +8,9 @@
 
 🧑‍🦽 Hoping to make a difference by creating a more accessible and safer world for everyone through technology.
 
-🌱 Currently retraining in Machine Learning and Data Engineering at [AiCore](https://www.theaicore.com) 🔥
+🌱 Retraining in Machine Learning and Data Engineering at [AiCore](https://www.theaicore.com) since June 2022 🔥
+
+👀 Currently co-operating to the [Deploying an Accurate Classifier to Stop Online Violence Against Children using NLP](https://omdena.com/projects/stop-online-violence-against-children/) Omdena Local Chapter 🔥
 
 💞️ *Always* looking to collaborate to projects related to the fields of linguistics or up-skilling.
 
