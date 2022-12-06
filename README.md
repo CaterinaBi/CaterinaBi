@@ -10,15 +10,19 @@
 
 🌱 Retraining in Machine Learning and Data Engineering at [AiCore](https://www.theaicore.com) since June 2022 🔥
 
-👀 Currently working on the [Deploying a Classifier to Stop Online Violence Against Children using NLP](https://omdena.com/projects/stop-online-violence-against-children/) Omdena Local Chapter 🔥
-
-🤓 Currently developing [pypelette](https://github.com/CaterinaBi/pypelette), a community project that utilises NLP to create an open source corpus of spoken interactions in the Romance languages 🔥
-
-💞️ *Always* looking to collaborate to projects related to the fields of linguistics or up-skilling.
+💞️ *Always* looking to collaborate to projects related to the field of linguistics or the topic of up-skilling.
 
 📝 I regularly write articles on my transition out of academia. Check out my [blog](https://www.caterinabonan.com/blog)!
 
 📭 You can reach out to me on <a href="https://www.linkedin.com/in/caterinabonan/"><img align="!" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Caterina Bonan | LinkedIn" width="21px"/></a> and/or check out my up-to-date CV in this [repo](https://github.com/CaterinaBi/curriculum-vitae) 😎
+
+# What I've been up to lately 🙃
+
+🤖 As a part of my training in ML, I have been developing a [Recommendation Ranking System](https://github.com/CaterinaBi/aicore-recommendation-ranking-system) along the lines of that of Facebook Marketplace.
+
+👀 I'm collaborating on the [Deploying a Classifier to Stop Online Violence Against Children using NLP](https://omdena.com/projects/stop-online-violence-against-children/) Omdena Local Chapter 🔥
+
+🤓 I am working on the beta version of [pypelette](https://github.com/CaterinaBi/pypelette), a community project that utilises NLP to create an open source corpus of spoken interactions in the Romance languages 🔥
 
 # Technologies that keep me up at night 🤦‍♀️
 
