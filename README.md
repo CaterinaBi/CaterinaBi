@@ -12,6 +12,8 @@
 
 👀 Currently working on the [Deploying a Classifier to Stop Online Violence Against Children using NLP](https://omdena.com/projects/stop-online-violence-against-children/) Omdena Local Chapter 🔥
 
+🤓 Currently developing [pypelette](https://github.com/CaterinaBi/pypelette), a community project that utilises NLP to create an open source corpus of spoken interactions in the Romance languages 🔥
+
 💞️ *Always* looking to collaborate to projects related to the fields of linguistics or up-skilling.
 
 📝 I regularly write articles on my transition out of academia. Check out my [blog](https://www.caterinabonan.com/blog)!
