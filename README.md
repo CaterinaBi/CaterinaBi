@@ -22,6 +22,8 @@
 
 👀 I'm collaborating on the [Deploying a Classifier to Stop Online Violence Against Children using NLP](https://omdena.com/projects/stop-online-violence-against-children/) and [Conversational AI Chatbot for People Affected by Inflation](https://omdena.com/projects/conversational-ai-chat-bot-for-people-affected-by-inflation/) Omdena Local Chapters 🔥
 
+🤯 I'm part of the Romance team at [Polyglot](https://github.com/CaterinaBi/polyglot), an Open-Souce project by [EleutherAI](https://github.com/EleutherAI) for the creation of large multi-lingual language models of well-balanced competence.
+
 🤓 I am working on the beta version of [pypelette](https://github.com/CaterinaBi/pypelette), a community project that utilises NLP to create an open source corpus of spoken interactions in the Romance languages 🔥
 
 # Technologies that keep me up at night 🤦‍♀️
