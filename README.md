@@ -10,7 +10,7 @@
 
 🌱 Retraining in Machine Learning and Data Engineering at [AiCore](https://www.theaicore.com) since June 2022 🔥
 
-💞️ *Always* looking to collaborate to projects related to the field of linguistics or the topic of up-skilling.
+💞️ *Always* excited about taking part in projects related to the field of linguistics or the topic of up-skilling.
 
 📝 I regularly write articles on my transition out of academia. Check out my [blog](https://www.caterinabonan.com/blog)!
 
