@@ -20,7 +20,7 @@
 
 🤖 As a part of my training in ML, I have been developing a [Recommendation Ranking System](https://github.com/CaterinaBi/aicore-recommendation-ranking-system) along the lines of that of Facebook Marketplace.
 
-👀 I'm collaborating on the [Deploying a Classifier to Stop Online Violence Against Children using NLP](https://omdena.com/projects/stop-online-violence-against-children/) Omdena Local Chapter 🔥
+👀 I'm collaborating on the [Deploying a Classifier to Stop Online Violence Against Children using NLP](https://omdena.com/projects/stop-online-violence-against-children/) and [Conversational AI Chatbot for People Affected by Inflation](https://omdena.com/projects/conversational-ai-chat-bot-for-people-affected-by-inflation/) Omdena Local Chapters 🔥
 
 🤓 I am working on the beta version of [pypelette](https://github.com/CaterinaBi/pypelette), a community project that utilises NLP to create an open source corpus of spoken interactions in the Romance languages 🔥
 
