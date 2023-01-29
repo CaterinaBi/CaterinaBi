@@ -20,7 +20,7 @@
 
 🤖 As a part of my training in ML, I have been developing a [Recommendation Ranking System](https://github.com/CaterinaBi/aicore-recommendation-ranking-system) along the lines of that of Facebook Marketplace.
 
-👀 I'm collaborating on the [Deploying a Classifier to Stop Online Violence Against Children using NLP](https://omdena.com/projects/stop-online-violence-against-children/) and [Conversational AI Chatbot for People Affected by Inflation](https://omdena.com/projects/conversational-ai-chat-bot-for-people-affected-by-inflation/) Omdena Local Chapters 🔥
+👀 I have recently collaborated on the [Deploying a Classifier to Stop Online Violence Against Children using NLP](https://omdena.com/projects/stop-online-violence-against-children/) and [Conversational AI Chatbot for People Affected by Inflation](https://omdena.com/projects/conversational-ai-chat-bot-for-people-affected-by-inflation/) Omdena Local Chapters, and I'm now leading several tasks (data collection, EDA, data pre-processing) in the [Building a Chatbot for Tourists in the UAE using NLP](https://omdena.com/projects/building-a-chatbot-for-tourists-in-the-uae/) and [Detecting Hateful and Offensive Language using NLP](https://omdena.com/projects/detecting-hateful-and-offensive-language-using-nlp/) chapters 🔥
 
 🤯 I'm part of the Romance team at [Polyglot](https://github.com/CaterinaBi/polyglot), an Open-Souce project by [EleutherAI](https://github.com/EleutherAI) for the creation of large multi-lingual language models of well-balanced competence.
 
