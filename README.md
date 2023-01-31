@@ -24,7 +24,7 @@
 
 🤯 I'm part of the Romance team at [Polyglot](https://github.com/CaterinaBi/polyglot), an Open-Souce project by [EleutherAI](https://github.com/EleutherAI) for the creation of large multi-lingual language models of well-balanced competence.
 
-🤓 I am working on the beta version of [pypelette](https://github.com/CaterinaBi/pypelette), a community project that utilises NLP to create an open source corpus of spoken interactions in the Romance languages 🔥
+🤓 I am working on the beta version of [pypelet](https://github.com/CaterinaBi/pypelette), a community project that utilises NLP to create an open source corpus of spoken interactions in the Romance languages 🔥 (join us! ♥)
 
 # Technologies that keep me up at night 🤦‍♀️
 
