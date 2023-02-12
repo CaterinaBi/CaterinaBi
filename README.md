@@ -8,6 +8,8 @@
 
 🧑‍🦽 Hoping to make a difference by creating a more accessible and safer world for everyone through technology.
 
+🤖 Founder and Lead NLP Engineer at the Omdena Cambridge local chapter, where we develop applications to fight misinformation and promote diversity and inclusion in technology 🔥
+
 🌱 Retraining in Machine Learning and Data Engineering at [AiCore](https://www.theaicore.com) since June 2022 🔥
 
 💞️ *Always* excited about taking part in projects related to the field of linguistics or the topic of up-skilling.
