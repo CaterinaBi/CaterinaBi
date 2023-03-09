@@ -2,19 +2,13 @@
 
 # A little bit about me 👀
 
-👩‍🎓 Postdoctoral researcher at the **University of Cambridge**, UK, since 2019.
+👩‍🎓 Former postdoctoral researcher at the **University of Cambridge**, UK, now incoming Data Scientist at [Five9](https://www.five9.com/en-uk).
 
-📚 Interested in comparative syntax, language documentation, Deep NLP and all sorts of NLP-powered technologies.
+📚 Interested in linguistics, data, NLP and all sorts of NLP-powered technologies.
 
 🧑‍🦽 Hoping to make a difference by creating a more accessible and safer world for everyone through technology.
 
 🤖 Founder and Lead NLP Engineer at the Omdena Cambridge local chapter, where we develop applications to fight misinformation and promote diversity and inclusion in technology 🔥
-
-🌱 Retraining in Machine Learning and Data Engineering at [AiCore](https://www.theaicore.com) since June 2022 🔥
-
-💞️ *Always* excited about taking part in projects related to the field of linguistics or the topic of up-skilling.
-
-📝 I regularly write articles on my transition out of academia. Check out my [blog](https://www.caterinabonan.com/blog)!
 
 📭 You can reach out to me on <a href="https://www.linkedin.com/in/caterinabonan/"><img align="!" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Caterina Bonan | LinkedIn" width="21px"/></a> and/or check out my up-to-date CV in this [repo](https://github.com/CaterinaBi/curriculum-vitae) 😎
 
