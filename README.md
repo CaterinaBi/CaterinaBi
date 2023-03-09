@@ -1,4 +1,4 @@
-![alt_text](images/banner.jpeg)
+![alt_text](images/cover.jpeg)
 
 # A little bit about me 👀
 
