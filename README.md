@@ -2,9 +2,9 @@
 
 # A little bit about me 👀
 
-👩‍🎓 Former postdoctoral researcher at the **University of Cambridge**, UK, now incoming Data Scientist at [Five9](https://www.five9.com/en-uk).
+👩‍🎓 Former postdoctoral researcher at the **University of Cambridge**, UK, now Data Scientist at [Five9](https://www.five9.com/en-uk).
 
-📚 Interested in linguistics, data, NLP and all sorts of NLP-powered technologies.
+📚 Interested in linguistics, data, all sorts of NLP-powered technologies, and conversation design.
 
 🧑‍🦽 Hoping to make a difference by creating a more accessible and safer world for everyone through technology.
 
@@ -20,9 +20,7 @@
 
 👀 I have recently collaborated on the [Deploying a Classifier to Stop Online Violence Against Children using NLP](https://omdena.com/projects/stop-online-violence-against-children/) and [Conversational AI Chatbot for People Affected by Inflation](https://omdena.com/projects/conversational-ai-chat-bot-for-people-affected-by-inflation/) Omdena Local Chapters, and I'm now leading several tasks (data collection, EDA, data pre-processing) of the [Building a Chatbot for Tourists in the UAE using NLP](https://omdena.com/projects/building-a-chatbot-for-tourists-in-the-uae/) and [Detecting Hateful and Offensive Language using NLP](https://omdena.com/projects/detecting-hateful-and-offensive-language-using-nlp/) Chapters 🔥
 
-🤯 I'm part of the Romance team at [Polyglot](https://github.com/CaterinaBi/polyglot), an Open-Souce project by [EleutherAI](https://github.com/EleutherAI) for the creation of large multi-lingual language models of well-balanced competence.
-
-🤓 I am working on the beta version of [pypelet](https://github.com/CaterinaBi/pypelette), a community project that utilises NLP to create an open source corpus of spoken interactions in the Romance languages 🔥 (join us! ♥)
+🤓 I am working on pypelet](https://github.com/CaterinaBi/pypelette), a community project that utilises NLP to create an open source corpus of spoken interactions in the Romance languages 🔥 (join us! ♥)
 
 # Technologies that keep me up at night 🤦‍♀️
 
