@@ -2,11 +2,11 @@
 
 # A little bit about me 👀
 
-💻 Data Sciences Manager at [Five9](https://www.five9.com/en-uk), driving the design, deployment, and tuning of virtual assistants to improve customer experience. 🔥
+💻 Data Sciences Manager at [Five9](https://www.five9.com/en-uk), driving the design, deployment, and tuning of virtual assistants to improve customer experience 🔥
 
 👩‍🎓 Previously a Postdoctoral Researcher in Theoretical Linguistics at the **University of Cambridge** (UK), where I explored the intersection of language theory and data.
 
-📚 Exploring all things data 📊, Agentic AI 🤖, and NLP-powered technologies 🗣️ — especially where they shape conversation design and customer experience.
+📚 Exploring all things data 📊, Agentic AI 🤖, and NLP-powered technologies 🗣️ to shape customer experience, KPI monitoring and measurable ROI.
 
 📭 You can reach out to me on <a href="https://www.linkedin.com/in/caterinabonan/"><img align="!" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Caterina Bonan | LinkedIn" width="21px"/></a> and/or check out my up-to-date CV in this [repo](https://github.com/CaterinaBi/curriculum-vitae) 😎
 
